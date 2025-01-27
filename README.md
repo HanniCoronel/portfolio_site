@@ -1,4 +1,4 @@
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+# Olá, Bem vindo ao meu projeto de portfólio.
 ![Inicial](https://github.com/user-attachments/assets/7eb8fa0e-0d3e-4da1-8a9d-aa4efe5818f5)
 
 
